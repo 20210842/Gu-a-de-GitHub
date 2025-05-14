@@ -26,3 +26,48 @@ You can also embed plots, for example:
 
 Note that the `echo = FALSE` parameter was added to the code chunk to
 prevent printing of the R code that generated the plot.
+
+
+
+
+
+## 3. Gestión de Proyectos con GitHub Projects
+
+### ¿Qué es?
+
+Es una herramienta para visualizar y organizar tareas mediante tableros o tablas personalizadas.
+
+### Tipos de proyectos
+
+- Clásico (deprecated)
+- Nuevo GitHub Projects (más flexible y automatizable)
+
+### ¿Cómo crear un proyecto?
+
+1. Ve a la pestaña **Projects**.
+2. Haz clic en **New Project**.
+3. Elige tipo de vista: tablero o tabla.
+4. Nombra y configura el proyecto.
+
+### Añadir elementos
+
+- Agrega Issues, PRs o tarjetas libres.
+- Usa columnas: *To do*, *In progress*, *Done*.
+- Mueve tarjetas para reflejar el estado.
+
+### Flujo sugerido
+
+1. Crear un Issue.
+2. Añadirlo al proyecto.
+3. Moverlo entre columnas según el progreso.
+4. Vincularlo con un PR.
+5. Cerrar el Issue con el merge del PR.
+
+### Mejores prácticas
+
+- Actualiza el tablero regularmente.
+- Usa etiquetas y prioridades.
+- Divide tareas complejas.
+- Usa automatizaciones.
+
+---
