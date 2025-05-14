@@ -1,7 +1,7 @@
 # Manual básico de Github
 ## Integrantes
 1. Pedraza Laboriano, Jonnathan Jesús - 20231505
-2. 
+2. Ojeda Valdiviezo, David Yampier - 20210842
 ## Presentación
 El repositorio busca ser una guía básica de github, enfocándose en aspectos de vital relevencia para el manejo de la plataforma. Por ello, se dispondrá del siguiente contenido:
 - Issues
