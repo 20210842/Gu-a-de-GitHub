@@ -1,10 +1,10 @@
-# Guía Básica de GitHub: Issues y Pull Requests
+# Guía Básica de GitHub
 
-Esta guía te ayudará a comprender dos funciones clave de GitHub: **Issues** y **Pull Requests**. Son herramientas esenciales para colaborar en proyectos, gestionar tareas y mantener un flujo de trabajo eficiente.
+Esta guía te ayudará a comprender dos funciones clave de GitHub: **Issues** , **Pull Requests** , **Gestion de proyectos con GitHub** y ------. Son herramientas esenciales para colaborar en proyectos, gestionar tareas y mantener un flujo de trabajo eficiente.
 
 ---
 
-## 📌 Issues
+## 1. Issues
 
 Los *issues* (problemas) son una forma de reportar errores, proponer mejoras o discutir ideas relacionadas con un proyecto.
 
@@ -26,7 +26,7 @@ Los *issues* (problemas) son una forma de reportar errores, proponer mejoras o d
 
 ---
 
-## 🔁 Pull Requests
+## 2. Pull Requests
 
 Un *pull request* (solicitud de extracción) se utiliza para proponer cambios en el código. Permite revisar, comentar y fusionar cambios en la rama principal del repositorio.
 
