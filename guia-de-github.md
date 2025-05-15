@@ -1,8 +1,36 @@
 # Guía Básica de GitHub
 
-Esta guía te ayudará a comprender dos funciones clave de GitHub: **Issues** , **Pull Requests** , **Gestion de proyectos con GitHub** y ------. Son herramientas esenciales para colaborar en proyectos, gestionar tareas y mantener un flujo de trabajo eficiente.
+Esta guía te ayudará a comprender algunas funciones clave de GitHub: **Issues** , **Pull Requests** , **Gestion de proyectos con GitHub** y **creacion de pagina en GitHub**. Estas son herramientas esenciales para colaborar en proyectos, gestionar tareas y mantener un flujo de trabajo eficiente.
 
 ---
+##  Índice de la Guía Básica de GitHub
+
+1. [Issues](#1-issues)  
+   - [¿Cómo crear un Issue?](#cómo-crear-un-issue)  
+   - [¿Para qué se usan?](#para-qué-se-usan)
+
+2. [Pull Requests](#2-pull-requests)  
+   - [¿Cómo crear un Pull Request?](#cómo-crear-un-pull-request)  
+   - [¿Para qué se usan?](#para-qué-se-usan-1)
+
+3. [Gestión de Proyectos con GitHub Projects](#3-gestión-de-proyectos-con-github-projects)  
+   - [¿Qué es?](#qué-es)  
+   - [Tipos de proyectos](#tipos-de-proyectos)  
+   - [¿Cómo crear un proyecto?](#cómo-crear-un-proyecto)  
+   - [Añadir elementos](#añadir-elementos)  
+   - [Flujo sugerido](#flujo-sugerido)  
+   - [Mejores prácticas](#mejores-prácticas)
+
+4. [Cómo Crear Ambos Tipos de Páginas en GitHub Pages](#4-cómo-crear-ambos-tipos-de-páginas-en-github-pages)  
+   - [Parte 1: Crear un sitio personal (usuario)](#parte-1-crear-un-sitio-personal-usuario)  
+     - [Paso 1: Crear el repositorio personal](#paso-1-crear-el-repositorio-personal)  
+     - [Paso 2: Agregar los archivos del sitio](#paso-2-agregar-los-archivos-del-sitio)  
+     - [Paso 3: Activar GitHub Pages](#paso-3-activar-github-pages)  
+   - [Parte 2: Crear un sitio de proyecto](#parte-2-crear-un-sitio-de-proyecto)  
+     - [Paso 1: Crear un repositorio](#paso-1-crear-un-repositorio)  
+     - [Paso 2: Subir tus archivos del sitio](#paso-2-subir-tus-archivos-del-sitio)  
+     - [Paso 3: Activar GitHub Pages](#paso-3-activar-github-pages-1)  
+     - [Resultado final](#resultado-final)
 
 ## 1. Issues
 
