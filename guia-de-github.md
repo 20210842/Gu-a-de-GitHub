@@ -42,12 +42,26 @@ Un *pull request* (solicitud de extracción) se utiliza para proponer cambios en
 ### ¿Cómo crear un Pull Request?
 
 1. Haz un *fork* (si no tienes acceso al repositorio original) o crea una nueva rama desde `main`.
-2. Realiza los cambios en esa rama y haz un **commit**.
-3. Sube tus cambios al repositorio (push).
-4. Ve a la pestaña **Pull Requests** y haz clic en **New Pull Request**.
-5. Compara la rama base (`main`) con tu rama con cambios.
-6. Agrega un título y una descripción explicando los cambios realizados.
-7. Haz clic en **Create Pull Request**.
+   ![image](https://github.com/user-attachments/assets/06a774e3-9fca-4af9-b295-b365c7617682)
+   
+   ![image](https://github.com/user-attachments/assets/3610c432-e422-40db-969f-b5bf3a0395ba)
+   
+   ![image](https://github.com/user-attachments/assets/fdaae334-9165-4e4f-9478-e74303ca2d71)
+
+3. Realiza los cambios en esa rama y haz un **commit**.
+   ![image](https://github.com/user-attachments/assets/828ec3ac-0dc7-461f-917d-0d860794ed60)
+
+5. Sube tus cambios al repositorio (push).
+6. Ve a la pestaña **Pull Requests** y haz clic en **New Pull Request**.
+   ![image](https://github.com/user-attachments/assets/dba03997-8fe5-49f6-8ccf-36888606b6ed)
+
+8. Compara la rama base (`main`) con tu rama con cambios.
+9. Agrega un título y una descripción explicando los cambios realizados.
+    ![image](https://github.com/user-attachments/assets/27163801-8b32-4041-9739-474430fab7f5)
+
+11. Haz clic en **Create Pull Request**.
+    ![image](https://github.com/user-attachments/assets/752ef89a-54d8-455b-b2c1-e1668a8b3719)
+
 
 ### ¿Para qué se usan?
 
