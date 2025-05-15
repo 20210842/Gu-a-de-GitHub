@@ -22,7 +22,7 @@ Los *issues* (problemas) son una forma de reportar errores, proponer mejoras o d
 4. Escribe un título claro y una descripción detallada del problema o sugerencia.
    ![image](https://github.com/user-attachments/assets/8fbb539a-07c6-4b0d-8dc4-ced293cabd15)
 
-15. Haz clic en **Create**.
+5. Haz clic en **Create**.
     ![image](https://github.com/user-attachments/assets/306d31cb-6952-41d5-b149-562cd4b7af75)
 
 
@@ -50,16 +50,19 @@ Un *pull request* (solicitud de extracción) se utiliza para proponer cambios en
 
 3. Realiza los cambios en esa rama y haz un **commit**.
    ![image](https://github.com/user-attachments/assets/828ec3ac-0dc7-461f-917d-0d860794ed60)
-
-5. Sube tus cambios al repositorio (push).
-6. Ve a la pestaña **Pull Requests** y haz clic en **New Pull Request**.
+ 
+4. Ve a la pestaña **Pull Requests** y haz clic en **New Pull Request**.
    ![image](https://github.com/user-attachments/assets/dba03997-8fe5-49f6-8ccf-36888606b6ed)
 
-8. Compara la rama base (`main`) con tu rama con cambios.
-9. Agrega un título y una descripción explicando los cambios realizados.
+5. Compara la rama base (`main`) con tu rama con cambios.
+   ![image](https://github.com/user-attachments/assets/bdcbd1ea-bcbf-4323-b75f-05cafc3f4d7a)
+
+   ![image](https://github.com/user-attachments/assets/e279896e-a313-413f-99c9-c897c1de4ecb)
+
+6. Agrega un título y una descripción explicando los cambios realizados.
     ![image](https://github.com/user-attachments/assets/27163801-8b32-4041-9739-474430fab7f5)
 
-11. Haz clic en **Create Pull Request**.
+7. Haz clic en **Create Pull Request**.
     ![image](https://github.com/user-attachments/assets/752ef89a-54d8-455b-b2c1-e1668a8b3719)
 
 
