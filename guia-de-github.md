@@ -149,7 +149,7 @@ Es una herramienta para visualizar y organizar tareas mediante tableros o tablas
 ###  Parte 1: Crear un sitio personal (usuario)
 
 Este sitio se publica en `https://TU-USUARIO.github.io`  
-🔹 Solo puedes tener **uno** por cuenta.
+ - Solo puedes tener **uno** por cuenta.
 
 
 #### Paso 1: Crear el repositorio personal
@@ -168,13 +168,13 @@ Este sitio se publica en `https://TU-USUARIO.github.io`
 
 Puedes hacerlo de dos formas:
 
-##### 🔹 Opción A: Usando la interfaz web
+##### - Opción A: Usando la interfaz web
 
 1. Clic en **Add file > Upload files**.
 2. Sube tu archivo `index.html` y otros recursos (CSS, imágenes, etc.).
 3. Clic en **Commit changes**.
 
-##### 🔹 Opción B: Desde tu computadora (con Git instalado)
+##### - Opción B: Desde tu computadora (con Git instalado)
 
 ```bash
 git clone https://github.com/TU-USUARIO/tu-usuario.github.io.git
@@ -190,12 +190,12 @@ git push origin main
 2. En Source, selecciona main y / (root) o /docs si usas una carpeta específica.
 3. Haz clic en Save.
 
-🔗 Tu sitio estará disponible en: `https://tu-usuario.github.io/calculadora-html`
+ Tu sitio estará disponible en: `https://tu-usuario.github.io/calculadora-html`
 
 ### Parte 2: Crear un sitio de proyecto
 
 Este tipo de sitio se publica en una URL como:  
-🔗 `https://tu-usuario.github.io/nombre-del-repositorio`
+ `https://tu-usuario.github.io/nombre-del-repositorio`
 
 Puedes tener tantos como desees.
 
@@ -221,7 +221,7 @@ Puedes tener tantos como desees.
 2. En **Source**, selecciona `main` y `/` (root) o `/docs` si usas una carpeta específica.  
 3. Haz clic en **Save**.
 
-🔗 Tu sitio estará disponible en:
+ Tu sitio estará disponible en:
 `https://tu-usuario.github.io/calculadora-html`
 
 Resultado final
