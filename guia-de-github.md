@@ -60,9 +60,14 @@ Es una herramienta para visualizar y organizar tareas mediante tableros o tablas
 ### ¿Cómo crear un proyecto?
 
 1. Ve a la pestaña **Projects**.
+![Descripción de la imagen](Pics/41.jpg)
 2. Haz clic en **New Project**.
+![Descripción de la imagen](Pics/42.jpg)
 3. Elige tipo de vista: tablero o tabla.
+![Descripción de la imagen](Pics/43.jpg)
 4. Nombra y configura el proyecto.
+![Descripción de la imagen](Pics/44.jpg)
+![Descripción de la imagen](Pics/45.jpg)
 
 ### Añadir elementos
 
