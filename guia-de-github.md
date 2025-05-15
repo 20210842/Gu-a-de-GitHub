@@ -13,16 +13,16 @@ Los *issues* (problemas) son una forma de reportar errores, proponer mejoras o d
 1. Ve al repositorio donde quieres crear el issue.
    ![image](https://github.com/user-attachments/assets/0aa591b2-75d5-49af-aca2-1bc46c4a9d5a)
 
-3. Haz clic en la pestaña **Issues**.
+2. Haz clic en la pestaña **Issues**.
    ![image](https://github.com/user-attachments/assets/ce1dc2bf-f181-4179-8441-2193794090ce)
 
-5. Haz clic en el botón **New Issue**.
+3. Haz clic en el botón **New Issue**.
    ![image](https://github.com/user-attachments/assets/ee9e763b-bc3e-4a87-b909-6df67fe8a8ba)
 
-7. Escribe un título claro y una descripción detallada del problema o sugerencia.
+4. Escribe un título claro y una descripción detallada del problema o sugerencia.
    ![image](https://github.com/user-attachments/assets/8fbb539a-07c6-4b0d-8dc4-ced293cabd15)
 
-10. Haz clic en **Create**.
+15. Haz clic en **Create**.
     ![image](https://github.com/user-attachments/assets/306d31cb-6952-41d5-b149-562cd4b7af75)
 
 
