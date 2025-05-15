@@ -11,7 +11,7 @@ Los *issues* (problemas) son una forma de reportar errores, proponer mejoras o d
 ### ¿Cómo crear un Issue?
 
 1. Ve al repositorio donde quieres crear el issue.
-   ![Imagen de WhatsApp 2025-05-14 a las 19 25 10_87c4e8d2](https://github.com/user-attachments/assets/460f1641-f3e0-4c20-9ce7-2a640e1fd3a9)
+   ![image](https://github.com/user-attachments/assets/0aa591b2-75d5-49af-aca2-1bc46c4a9d5a)
 
 3. Haz clic en la pestaña **Issues**.
 4. Haz clic en el botón **New Issue**.
