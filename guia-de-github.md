@@ -85,4 +85,90 @@ Es una herramienta para visualizar y organizar tareas mediante tableros o tablas
 - Divide tareas complejas.
 - Usa automatizaciones.
 
----
+## 4. Cómo Crear Ambos Tipos de Páginas en GitHub Pages
+
+### 🧑‍💼 Parte 1: Crear un sitio personal (usuario)
+
+Este sitio se publica en `https://TU-USUARIO.github.io`  
+🔹 Solo puedes tener **uno** por cuenta.
+
+
+#### ✅ Paso 1: Crear el repositorio personal
+
+1. Inicia sesión en GitHub.
+2. Haz clic en **New Repository**.
+3. Nombre del repositorio:  
+   ➤ Debe llamarse exactamente: `tu-usuario.github.io`  
+   (Reemplaza `"tu-usuario"` por tu nombre de usuario real de GitHub.)
+4. Hazlo público.
+5. Marca **"Add a README"** si quieres.
+6. Clic en **Create repository**.
+
+
+#### ✅ Paso 2: Agregar los archivos del sitio
+
+Puedes hacerlo de dos formas:
+
+##### 🔹 Opción A: Usando la interfaz web
+
+1. Clic en **Add file > Upload files**.
+2. Sube tu archivo `index.html` y otros recursos (CSS, imágenes, etc.).
+3. Clic en **Commit changes**.
+
+##### 🔹 Opción B: Desde tu computadora (con Git instalado)
+
+```bash
+git clone https://github.com/TU-USUARIO/tu-usuario.github.io.git
+cd tu-usuario.github.io
+# Agrega tus archivos del sitio (index.html, styles.css, etc.)
+git add .
+git commit -m "Mi sitio personal"
+git push origin main
+```
+
+#### ✅ Paso 3: Activar GitHub Pages
+1. En tu repositorio, ve a Settings > Pages.
+2. En Source, selecciona main y / (root) o /docs si usas una carpeta específica.
+3. Haz clic en Save.
+
+🔗 Tu sitio estará disponible en: `https://tu-usuario.github.io/calculadora-html`
+
+### 📁 Parte 2: Crear un sitio de proyecto
+
+Este tipo de sitio se publica en una URL como:  
+🔗 `https://tu-usuario.github.io/nombre-del-repositorio`
+
+Puedes tener tantos como desees.
+
+
+#### ✅ Paso 1: Crear un repositorio
+
+1. Haz clic en **New Repository**.  
+2. Ponle un nombre cualquiera (por ejemplo, `calculadora-html`).  
+3. Hazlo público.  
+4. Marca **"Add a README"** si quieres.  
+5. Clic en **Create repository**.
+
+
+#### ✅ Paso 2: Subir tus archivos del sitio
+
+- Incluye al menos un archivo `index.html`.  
+- Sube archivos desde la web o usa Git local como en el paso anterior.
+
+
+#### ✅ Paso 3: Activar GitHub Pages
+
+1. En tu repositorio, ve a **Settings > Pages**.  
+2. En **Source**, selecciona `main` y `/` (root) o `/docs` si usas una carpeta específica.  
+3. Haz clic en **Save**.
+
+🔗 Tu sitio estará disponible en:
+`https://tu-usuario.github.io/calculadora-html`
+
+✅ Resultado final
+Tendrás dos sitios publicados:
+| Sitio    | URL                                    | Tipo              |
+| -------- | -------------------------------------- | ----------------- |
+| Personal | `https://tu-usuario.github.io`         | Sitio de usuario  |
+| Proyecto | `https://tu-usuario.github.io/nombre/` | Sitio de proyecto |
+
