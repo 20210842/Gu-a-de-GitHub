@@ -7,6 +7,6 @@ El repositorio busca ser una guía básica de github, enfocándose en aspectos d
 - Issues
 - Pull request
 - Gestión de proyectos con GitHub projects.
-- Automatización de flujos de trabajos con GitHub projects.
+- Creación de páginas en Github
 
 Este manual busca proporcionar una base sólida para comprender y aplicar las funciones principales de GitHub. Con su correcta implementación, los usuarios podrán mejorar la colaboración, organización y eficiencia en sus proyectos de desarrollo.
